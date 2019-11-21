@@ -1,0 +1,6 @@
+C:\Users\Marco\source\repos\practica10\practica10\bin\Debug\practica10.exe.config
+C:\Users\Marco\source\repos\practica10\practica10\bin\Debug\practica10.exe
+C:\Users\Marco\source\repos\practica10\practica10\bin\Debug\practica10.pdb
+C:\Users\Marco\source\repos\practica10\practica10\obj\Debug\practica10.csprojAssemblyReference.cache
+C:\Users\Marco\source\repos\practica10\practica10\obj\Debug\practica10.exe
+C:\Users\Marco\source\repos\practica10\practica10\obj\Debug\practica10.pdb
